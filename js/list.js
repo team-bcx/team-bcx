@@ -229,7 +229,7 @@ const d = {
                 },
 			                                                    {
                     "user": "Chee2y",
-                    "link": "i trust him",
+                    "link": "https://www.youtube.com/watch?v=JrCUEjSzLAk",
                     "percent": 100,
                 },
 			],
