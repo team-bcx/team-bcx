@@ -227,6 +227,11 @@ const d = {
                     "link": "https://youtu.be/Vpvoo0l6cWY",
                     "percent": 100,
                 },
+			                                                    {
+                    "user": "Chee2y",
+                    "link": "i trust him",
+                    "percent": 100,
+                },
 			],
 			"name": "in brightness",
                        "author": "LCynox",
