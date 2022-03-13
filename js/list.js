@@ -4,7 +4,7 @@ const d = {
 	    				{
 			"vids": [
 			],
-			"name": "Polaris",
+			"name": "test",
                        "author": "Hexagon7 and more [ProgamerrrPL]",
                        "more": "NovumLumen, aidancode",
                        "id": 77809031,
