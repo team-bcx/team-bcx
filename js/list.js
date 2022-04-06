@@ -136,6 +136,11 @@ const d = {
 		/*=================================================================================*/
 				{
 			"vids": [
+						    			    			    				{
+					"user": "mxffincatt",
+					"link": "https://youtu.be/jZ2ruT7atGM",
+					"percent": 100,
+				},
 			],
 			"name": "HexaStep",
                        "author": "Hexagon7 [GoldenGamerPL]",
@@ -305,6 +310,12 @@ const d = {
 
 					"user": "mxffincatt",
 					"link": "https://youtu.be/DuXpjjKmTdk",
+					"percent": 100,
+				},
+				{
+
+					"user": "Chee2y",
+					"link": "https://youtu.be/CHV-Er2yZN8",
 					"percent": 100,
 				},
 			],
