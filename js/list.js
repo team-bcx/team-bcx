@@ -17,7 +17,7 @@ const d = {
 			"vids": [
 			],
 			"name": "SugarShock",
-                       "author": "LCynox, tcnq [Chee2y]",
+                       "author": "LCynox, wBellox [Chee2y]",
                        "more": "none",
                        "id": 78651997,
                        "percentToQualify": 38,
@@ -35,7 +35,7 @@ const d = {
 			],
 			"name": "The Glodern",
                        "author": "LCynox and more [ProgamerrrPL]",
-                       "more": "GoldenGamerPL, tcnq",
+                       "more": "GoldenGamerPL, wBellox",
                        "id": 75312165,
                        "percentToQualify": 49,
                        "verificationVid": "https://www.youtube.com/watch?v=Np0qUbWMQTg",
@@ -57,7 +57,7 @@ const d = {
 				{
 			"vids": [
 			    			    			    			    				{
-					"user": "tcnq",
+					"user": "wBellox",
 					"link": "https://www.youtube.com/watch?v=rYIXjRk39oI",
 					"percent": 100,
 				},
@@ -207,7 +207,7 @@ const d = {
 			"vids": [
 			],
 			"name": "Lights out",
-                       "author": "Hexagon7 [tcnq]",
+                       "author": "Hexagon7 [wBellox]",
                        "more": "none",
                        "id": 69120849,
                        "percentToQualify": 58,
@@ -336,7 +336,7 @@ const d = {
 					"percent": 100,
 				},
 				{
-					"user": "tcnq",
+					"user": "wBellox",
 					"link": "https://youtu.be/46QYC52Vxzs",
 					"percent": 100,
 				},
@@ -385,7 +385,7 @@ const d = {
 								{
 			"vids": [
 			    			                                  {
-                    "user": "tcnq",
+                    "user": "wBellox",
                     "link": "https://www.youtube.com/watch?v=j1dLgaf0lqo",
                     "percent": 100,
                 },
@@ -412,7 +412,7 @@ const d = {
 					"percent": 100,
 				},
 							    			    			    				{
-					"user": "tcnq",
+					"user": "wBellox",
 					"link": "https://www.youtube.com/watch?v=DgHO6_S4RjM",
 					"percent": 100,
 				},
