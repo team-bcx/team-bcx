@@ -389,6 +389,11 @@ const d = {
                     "link": "https://www.youtube.com/watch?v=j1dLgaf0lqo",
                     "percent": 100,
                 },
+			    			                                  {
+                    "user": "Chee2y",
+                    "link": "https://youtu.be/BJo3u9qYwnU",
+                    "percent": 100,
+                },
 			],
 			"name": "L with no cynox II",
                        "author": "mxffincatt",
