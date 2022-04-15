@@ -1,5 +1,17 @@
 const d = {
 	"list": [
+	    		/*=================================================================================*/
+	    				{
+			"vids": [
+			],
+			"name": "Polaris",
+                       "author": "Hexagon7 and more [ProgamerrrPL]",
+                       "more": "NovumLumen, aidancode",
+                       "id": 77809031,
+                       "percentToQualify": 44,
+                       "verificationVid": "https://www.youtube.com/watch?v=k_BKHUepkxw",
+                       "key": 0
+		},
 		/*=================================================================================*/
 						{
 			"vids": [
@@ -28,6 +40,18 @@ const d = {
                        "percentToQualify": 49,
                        "verificationVid": "https://www.youtube.com/watch?v=Np0qUbWMQTg",
                        "key": 2
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Sirius",
+                       "author": "Hexagon7 [ProgamerrrPL]",
+                       "more": "none",
+                       "id": 73292887,
+                       "percentToQualify": 49,
+                       "verificationVid": "https://www.youtube.com/watch?v=bQJtbQxcVhw",
+                       "key": 3
 		},
 		/*=================================================================================*/
 				{
@@ -110,6 +134,23 @@ const d = {
                        "key": 8
 		},
 		/*=================================================================================*/
+				{
+			"vids": [
+						    			    			    				{
+					"user": "mxffincatt",
+					"link": "https://youtu.be/jZ2ruT7atGM",
+					"percent": 100,
+				},
+			],
+			"name": "HexaStep",
+                       "author": "Hexagon7 [GoldenGamerPL]",
+                       "more": "none",
+                       "id": 78169650,
+                       "percentToQualify": 50,
+                       "verificationVid": "https://www.youtube.com/watch?v=6NPrNyJ7SnY",
+                       "key": 9
+		},
+		/*=================================================================================*/
 						{
 			"vids": [
 			],
@@ -120,6 +161,29 @@ const d = {
                        "percentToQualify": 50,
                        "verificationVid": "https://youtu.be/9y08eHj0dOI",
                        "key": 10
+		},
+		/*=================================================================================*/
+		{
+
+			"vids": [
+			    				{
+					"user": "aidancode",
+					"link": "https://ibb.co/16JBBrT",
+					"percent": 100,
+				},
+							    				{
+					"user": "ProgamerrrPL",
+					"link": "https://www.youtube.com/watch?v=BHAIV66cbZM",
+					"percent": 100,
+				},
+			],
+			"name": "HellStep",
+                       "author": "Hexagon7 [LCynox]",
+                       "more": "none",
+                       "id": 72304339,
+                       "percentToQualify": 65,
+                       "verificationVid": "https://www.youtube.com/watch?v=5KA-o__IALk",
+                       "key": 11
 		},
 		/*=================================================================================*/
 		{
@@ -137,6 +201,18 @@ const d = {
                        "percentToQualify": 65,
                        "verificationVid": "https://www.youtube.com/watch?v=tSsWQUZnBPo",
                        "key": 12
+		},
+		/*=================================================================================*/
+				{
+			"vids": [
+			],
+			"name": "Lights out",
+                       "author": "Hexagon7 [wBellox]",
+                       "more": "none",
+                       "id": 69120849,
+                       "percentToQualify": 58,
+                       "verificationVid": "https://www.youtube.com/watch?v=6nTGrB7Mrzs",
+                       "key": 13
 		},
 		/*=================================================================================*/
 						{
@@ -252,6 +328,38 @@ const d = {
                        "key": 18
 		},
 		/*=================================================================================*/
+				{
+			"vids": [
+			    	{
+					"user": "ProgamerrrPL",
+					"link": "https://www.youtube.com/watch?v=1IwKaBHM1SU",
+					"percent": 100,
+				},
+				{
+					"user": "wBellox",
+					"link": "https://youtu.be/46QYC52Vxzs",
+					"percent": 100,
+				},
+								{
+					"user": "GoldenGamerPL",
+					"link": "https://www.youtube.com/watch?v=MFneBaPVArs",
+					"percent": 100,
+				},
+								{
+					"user": "mxffincatt",
+					"link": "https://youtu.be/brKifGgqWQs",
+					"percent": 100,
+				},
+			],
+			"name": "ConceptCircles Reborn",
+                       "author": "Hexagon7 and more [LCynox]",
+                       "more": "Pumpkinest, Alluminati, LCynox",
+                       "id": 74946649,
+                       "percentToQualify": 71,
+                       "verificationVid": "https://youtu.be/ToHoBO08Wrg",
+                       "key": 19
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 			                                                    {
@@ -298,6 +406,39 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			    			    			    				{
+					"user": "GoldenGamerPL",
+					"link": "https://www.youtube.com/watch?v=K-YamjkjziA",
+					"percent": 100,
+				},
+							    			    			    				{
+					"user": "wBellox",
+					"link": "https://www.youtube.com/watch?v=DgHO6_S4RjM",
+					"percent": 100,
+				},
+				                                                {
+                    "user": "ProgamerrrPL",
+                    "link": "https://www.youtube.com/watch?v=DX-xtU3ZQ6I",
+                    "percent": 100,
+                },
+                				                                                {
+                    "user": "mxffincatt",
+                    "link": "https://youtu.be/5o8SoqG6nIE",
+                    "percent": 100,
+                },
+
+			],
+			"name": "HexStep",
+                       "author": "Hexagon7",
+                       "more": "none",
+                       "id": 66833221,
+                       "percentToQualify": 65,
+                       "verificationVid": "https://www.youtube.com/watch?v=V1uOQJjgDtY",
+                       "key": 22
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 			],
 			"name": "Arcane16",
                        "author": "LCynox [Antisocial]",
@@ -323,7 +464,24 @@ const d = {
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=0CuW-UvhsME",
                        "legacykey": 1
-		},		
+		},
+		/*=================================================================================*/
+				{
+			"vids": [
+			    			    				{
+					"user": "ProgamerrrPL",
+					"link": "https://www.youtube.com/watch?v=BHAIV66cbZM",
+					"percent": 100,
+				},
+			],
+			"name": "Hexagon Circles",
+                       "author": "Hexagon7 [GoldenGamerPL]",
+                       "more": "none",
+                       "id": 72827027,
+                       "percentToQualify": 57,
+                       "verificationVid": "https://www.youtube.com/watch?v=gsofCYeCqX0",
+                       "legacykey": 2
+		},				
 	],
 	"version": [
 		1,
