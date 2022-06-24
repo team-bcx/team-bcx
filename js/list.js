@@ -1,17 +1,5 @@
 const d = {
 	"list": [
-	    		/*=================================================================================*/
-	    				{
-			"vids": [
-			],
-			"name": "Caeruleum",
-                       "author": "wardomelon and more [Chee2y]",
-                       "more": "get real",
-                       "id": 77809031,
-                       "percentToQualify": 44,
-                       "verificationVid": "https://www.youtube.com/watch?v=SzT7_ifydnM",
-                       "key": 0
-		},
 		/*=================================================================================*/
 	    				{
 			"vids": [
