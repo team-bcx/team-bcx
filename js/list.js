@@ -61,6 +61,11 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+		    			    			    				{
+					"user": "mxffincatt",
+					"link": "https://youtu.be/VIAzCoeKDzM",
+					"percent": 100,
+				},
 			],
 			"name": "Sirius",
                        "author": "Hexagon7 [ProgamerrrPL]",
